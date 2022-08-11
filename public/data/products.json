@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "123",
+
+      "diplomaTarih": "1994-08-07",
+      "diplomaDosyaAdres": "aaaa",
+      "diplomaNumarasi": "11111",
+      "mezunBolumId": "0023101d-8234-4564-9ce6-96da4caa794b",
+      "mezunFakulteId": "0edb02b4-ef88-4655-ae5d-0d776ddb4d14",
+      "mezunUlkeId": "d3f9f72a-bb15-4080-85fc-26df8e2c835c",
+      "mezunBransId": "546fa8cf-a7bd-4cf7-bd8e-9eb66421b12e",
+      "mezunUniversiteId": "7c6332c2-3467-4707-b2b8-dffe47706104",
+      "mezuniyetTarihi": "1994-08-07",
+      "saglikbakTescilNumarasi": "11111",
+      "mezunTipId": "d1be2e9c-9d4c-4ccf-a799-d1ed6202029b"
+    },
+    {
+      "id": "1234",
+      "diplomaTarih": "1994-08-17",
+      "diplomaDosyaAdres": "aaaa",
+      "diplomaNumarasi": "11111",
+      "mezunBolumId": "5036b66a-1f76-4ee7-aebb-615497fa9136",
+      "mezunFakulteId": "83d219d2-1ad7-4373-b86a-76b5a0c41625",
+      "mezunUlkeId": "e3f9f72a-bb15-4080-85fc-26df8e2c835c",
+      "mezunBransId": "546fa8cf-a7bd-4cf7-bd8e-9eb66421b12e",
+      "mezunUniversiteId": "7c6332c2-3467-4707-b2b8-dffe47706104",
+      "mezuniyetTarihi": "1994-08-07",
+      "saglikbakTescilNumarasi": "11111",
+      "mezunTipId": "ed373ed2-d929-4bcf-be3a-18f69c85f70d"
+    }
+  ]
+}
